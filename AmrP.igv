@@ -185,8 +185,8 @@ GVRecord End
 GVRecord=SCALAR
 GVRecord Name=Downstream_Control_Loc
 GVRecord ID=37
-GVRecord DssFilename=rss/RSAmerPO_igv.dss
-GVRecord DssPathname=//Downstream_Control_Loc///Integer/RSAmerPO-ResSim-Default/
+GVRecord DssFilename=rss/AmrP_igv.dss
+GVRecord DssPathname=//Downstream_Control_Loc///Integer/AmrP-ResSim-Default/
 GVRecord DataLocation=false
 GVRecord LinkedLocation=
 GVRecord LinkedModel=
