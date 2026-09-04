@@ -1,13 +1,13 @@
-RssAlt Name=RSAmerNRV
+RssAlt Name=AmrNFF
 RssAlt Description=Alternative for ResSim network AMR_Net_7_NatRiver, with Natoma and American River (excluding Folsom).
 Version=1001
 ModifiedTime=1744238719002
 NetworkID=34851
 System Path=rss/networks/AMR_Net_7_NatRiver/AMR_Net_7_NatRiver.rsys
 Operations Path=
-InputTSData Path=rss/RSAmerNRV.fits
+InputTSData Path=rss/AmrNFF.fits
 OutputTSData Path=
-InputGVData Path=rss/RSAmerNRV.igv
+InputGVData Path=rss/AmrNFF.igv
 InputWQTSDataPath Path=
 OutputVerticalDatum=AS_DEFINED
 FlowComputeType=1
@@ -128,7 +128,7 @@ YieldAnalysesToOutput=1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11
 ReservoirStorageVsYieldAnalysisEnd
 TimeStep=1
 TimeIncrement=2
-ObservedTSData Path=rss/RSAmerNRVObs.fits
+ObservedTSData Path=rss/AmrNFFObs.fits
 resOpSelection=9,0
 divOpSelection=54,1
 divOpSelection=58,1
@@ -211,7 +211,7 @@ MaxIterations:-2147483648
 LastIteration:0
 CumulativeTime:0
 SimulationOption:0
-ScriptFilePath:rss/RSAmerNRV.mcscript
+ScriptFilePath:rss/AmrNFF.mcscript
 IterationString:
 Compute:false
 StandAloneRandomSeed:0.0
