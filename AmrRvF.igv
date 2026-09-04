@@ -1,5 +1,5 @@
 ModifiedTime=1749097168966
-GVDataSet Name=RSAmerRVO
+GVDataSet Name=AmrRvF
 Description=ResSim Alternative including the AmericanRiverOnly network, from Nimbus Dan to the Sac confluence (Global Variable Data Set)
 
 GVRecord=SCALAR
