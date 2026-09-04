@@ -1,5 +1,5 @@
 TSDataSet Name=AmrRvP
-Description=Simillar to RSAmer (forecast) alternative with full network, but with only the river represented in water quality (no reservoirs) (TS Data Set)
+Description=Simillar to AmrF (forecast) alternative with full network, but with only the river represented in water quality (no reservoirs) (TS Data Set)
 
 _type=0
 ParentPath=null

@@ -1,4 +1,4 @@
-TSDataSet Name=RSAmerObs
+TSDataSet Name=AmrFObs
 Description=WTMP American ResSim Alternative including Folsom Lake, Lake Natoma, and the lower American River - Predictive/Forecast Folsom operations (Observed TS Data Set)
 
 _type=0

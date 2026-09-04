@@ -2,7 +2,7 @@
 <ResSimTimeStepMap>
   <TimeStepInfo ModelAlternative="FloFol7" TimeStep="1 Hour" Lookback="24" />
   <TimeStepInfo ModelAlternative="WQFol7" TimeStep="1 Hour" Lookback="24" />
-  <TimeStepInfo ModelAlternative="RSAmer" TimeStep="1 Hour" Lookback="24" />
+  <TimeStepInfo ModelAlternative="AmrF" TimeStep="1 Hour" Lookback="24" />
   <TimeStepInfo ModelAlternative="AmrRvF" TimeStep="1 Hour" Lookback="24" />
   <TimeStepInfo ModelAlternative="AmrP" TimeStep="1 Hour" Lookback="24" />
   <TimeStepInfo ModelAlternative="AmrRvP" TimeStep="1 Hour" Lookback="24" />

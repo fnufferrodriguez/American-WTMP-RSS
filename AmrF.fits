@@ -1,4 +1,4 @@
-TSDataSet Name=Input TS DataSet for RSAmer
+TSDataSet Name=Input TS DataSet for AmrF
 Description=WTMP American ResSim Alternative including Folsom Lake, Lake Natoma, and the lower American River - Predictive/Forecast Folsom operations (TS Data Set)
 
 _type=0

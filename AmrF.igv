@@ -205,8 +205,8 @@ GVRecord End
 GVRecord=SCALAR
 GVRecord Name=Downstream_Control_Loc
 GVRecord ID=37
-GVRecord DssFilename=rss/RSAmer_igv.dss
-GVRecord DssPathname=//Downstream_Control_Loc///Integer/RSAmer-ResSim-Default/
+GVRecord DssFilename=rss/AmrF_igv.dss
+GVRecord DssPathname=//Downstream_Control_Loc///Integer/AmrF-ResSim-Default/
 GVRecord DataLocation=true
 GVRecord LinkedLocation=DOWNSTREAM_CONTROL_LOC
 GVRecord LinkedModel=DSS File

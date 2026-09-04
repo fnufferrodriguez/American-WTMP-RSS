@@ -1,11 +1,11 @@
-RssAlt Name=RSAmer
+RssAlt Name=AmrF
 RssAlt Description=WTMP American ResSim Alternative including Folsom Lake, Lake Natoma, and the lower American River - Predictive/Forecast Folsom operations
 Version=1001
 ModifiedTime=1744312214708
 NetworkID=144
 System Path=rss/networks/AMR_Net_7/AMR_Net_7.rsys
 Operations Path=
-InputTSData Path=rss/RSAmer.fits
+InputTSData Path=rss/AmrF.fits
 OutputTSData Path=
 InputGVData Path=
 InputWQTSDataPath Path=
@@ -124,7 +124,7 @@ YieldAnalysesToOutput=1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11
 ReservoirStorageVsYieldAnalysisEnd
 TimeStep=1
 TimeIncrement=2
-ObservedTSData Path=rss/RSAmerObs.fits
+ObservedTSData Path=rss/AmrFObs.fits
 resOpSelection=9,0
 resOpSelection=0,2
 divOpSelection=54,1
@@ -226,7 +226,7 @@ MaxIterations:-2147483648
 LastIteration:0
 CumulativeTime:0
 SimulationOption:0
-ScriptFilePath:rss/RSAmer.mcscript
+ScriptFilePath:rss/AmrF.mcscript
 IterationString:
 Compute:false
 StandAloneRandomSeed:0.0
