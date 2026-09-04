@@ -1,11 +1,11 @@
-RssAlt Name=RsAmerRiv
+RssAlt Name=AmrRvP
 RssAlt Description=Simillar to RSAmer (forecast) alternative with full network, but with only the river represented in water quality (no reservoirs)
 Version=1001
 ModifiedTime=1743645633904
 NetworkID=144
 System Path=rss/networks/AMR_Net_7/AMR_Net_7.rsys
 Operations Path=
-InputTSData Path=rss/RsAmerRiv.fits
+InputTSData Path=rss/AmrRvP.fits
 OutputTSData Path=
 InputGVData Path=
 InputWQTSDataPath Path=
@@ -124,7 +124,7 @@ YieldAnalysesToOutput=1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11
 ReservoirStorageVsYieldAnalysisEnd
 TimeStep=1
 TimeIncrement=2
-ObservedTSData Path=rss/RsAmerRivObs.fits
+ObservedTSData Path=rss/AmrRvPObs.fits
 resOpSelection=9,0
 resOpSelection=0,2
 divOpSelection=54,1
@@ -226,7 +226,7 @@ MaxIterations:-2147483648
 LastIteration:0
 CumulativeTime:0
 SimulationOption:0
-ScriptFilePath:rss/RsAmerRiv.mcscript
+ScriptFilePath:rss/AmrRvP.mcscript
 IterationString:
 Compute:false
 StandAloneRandomSeed:0.0
